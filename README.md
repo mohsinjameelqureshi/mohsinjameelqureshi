@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohsinjameelqureshi.
+- 👋 Hi, I’m  Mohsin Jameel Qureshi.
 - 👀 I’m interested in App Development.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me?

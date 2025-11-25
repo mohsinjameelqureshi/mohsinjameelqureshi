@@ -49,6 +49,6 @@ I’m a passionate full-stack developer who loves building clean, scalable, and 
 - Build smoother Flutter UI/animations  
 - Learn cloud deployment & CI/CD  
 
----
+
 
 

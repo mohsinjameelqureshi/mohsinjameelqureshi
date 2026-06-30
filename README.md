@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Mohsin Jameel**
+# 👋 Hi, I'm **Mohsin Jamil**
 ### 🚀 Full-Stack Developer  
 Node.js • Express • MongoDB • Flutter
 
